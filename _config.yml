@@ -5,7 +5,7 @@ highlighter: rouge
 # Site settings
 title: "The Best of Hack Education"
 description: > # this means to ignore newlines until "email:"
-   Selected Keynotes
+   Selected Keynotes and Public Talks
 
 email: mail@audreywatters.com
 #blog logo

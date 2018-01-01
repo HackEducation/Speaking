@@ -3,9 +3,9 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "The Best of Hack Education"
+title: "Selected Keynotes and Public Talks"
 description: > # this means to ignore newlines until "email:"
-   Selected Keynotes and Public Talks
+   A Hack Education Project
 
 email: mail@audreywatters.com
 #blog logo
